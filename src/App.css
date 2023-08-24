@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    src: url('../fonts/SF-Pro.ttf');
+    font-family: 'SF Pro';
+    font-weight: thin;
+    font-style: normal;
+}
+
+body {
+    background: var(--clr-body);
+    font-family: 'SF Pro', sans-serif;
+}

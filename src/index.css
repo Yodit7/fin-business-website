@@ -1,0 +1,62 @@
+:root {
+    /* font color */
+   --clr-body: rgb(234, 232, 254);
+   --clr-heading: rgb(24, 17, 72);
+   --clr-btn: rgb(103, 48, 255);
+   --clr-accent: rgb(252, 200, 69);
+   --clr-text: rgb(69, 65, 89);
+   --clr-footer: rgb(24, 17, 72);
+
+}
+
+button {
+    width: 220px;
+    height: 60px;
+    padding: 18px 10px;
+    border-radius: 10px;
+    border: none;
+    background: var(--clr-btn);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'SF Pro';
+    font-size: 14px;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.icon-transparent {
+    background: transparent;
+    border: 1px solid white;
+    transition: border 0.5s, background-color 0.3s;
+}
+
+.icon-transparent:hover {
+    background: var(--clr-btn);
+    border: 1px solid transparent;
+}
+
+.menu-icon {
+    font-size: 40px;
+    font-weight: 100;
+    cursor: pointer;
+}
+
+.icon-medium {
+    font-size: 20px;
+    padding-left: 5px;
+}
+
+
+.icon-clr {
+    color: var(--clr-btn);
+}
+
+.icon {
+    cursor: pointer;
+}
+
+.icon-clr-accent {
+    color: var(--clr-accent);
+}
