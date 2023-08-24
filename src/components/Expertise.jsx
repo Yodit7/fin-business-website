@@ -129,21 +129,21 @@ const Expertise = () => {
                 </Headline>
                 <ExpertiseBoxes>
                     <ExpertiseBox>
-                        <img src="../src/assets/financial-planning.svg" alt="" />
+                        <img src="../assets/financial-planning.svg" alt="" />
                         <h6>Financial Planning</h6>
                         <p>One Morning when Gregor Samsa woke from troubled dreams,
                             he found dreams, he found himself transformed.
                         </p>
                     </ExpertiseBox>
                     <ExpertiseBox>
-                        <img src="../src/assets/tax-funds.svg" alt="" />
+                        <img src="../assets/tax-funds.svg" alt="" />
                         <h6>Tax Saving Mutual Funds</h6>
                         <p>One Morning when Gregor Samsa woke from troubled dreams,
                             he found dreams, he found himself transformed.
                         </p>
                     </ExpertiseBox>
                     <ExpertiseBox>
-                        <img src="../src/assets/family-wealth.svg" alt="" />
+                        <img src="../assets/family-wealth.svg" alt="" />
                         <h6>Family Wealth Management</h6>
                         <p>One Morning when Gregor Samsa woke from troubled dreams,
                             he found dreams, he found himself transformed.
